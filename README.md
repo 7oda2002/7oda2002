@@ -1,1 +1,1 @@
-hello i am 7oda machine learning student 
+hello i am 7oda, I am a machine learning student 
